@@ -20,8 +20,6 @@ Currently verified:
 
 More formal proofs can be added as the project develops.
 
-```
-
 ## Goal
 
 The goal of this project is to understand how persistent data structures are implemented in a functional language, how structural sharing affects their behavior, and how their correctness can be formally expressed and verified using Isabelle/HOL.
